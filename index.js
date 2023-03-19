@@ -1,6 +1,6 @@
 import { config } from 'dotenv'
 import axios from 'axios'
-import { login } from './auth/index.js';
+import { login } from './auth/user/index.js';
 
 config();
 
